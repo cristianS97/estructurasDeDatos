@@ -1,3 +1,9 @@
+"""
+Método de ordenamiento burbuja
+
+Revisa cada elemento de la lista con el siguiente elemento, intercambiandolos de posición
+si están en el orden equivocado
+"""
 lista = [4, 2, 6, 8, 5, 7]
 
 # Menor a mayor
